@@ -1,0 +1,17 @@
+/sdas/asxmak/cygwin/exe/*.exe
+*.com
+*.exe
+*.wpj
+*.vcproj
+*.sln
+*.prj
+*.dsw
+*.dsp
+/sdas/asxmak/linux/exe
+/sdas/asxmak/cygwin/build/backup
+/sdas/asxmak/djgpp/build/backup
+/sdas/asxmak/linux/build/backup
+/sdas/asxmak/watcom/
+/sdas/asxmak/symantec/
+/sdas/asxmak/turboc30/
+/sdas/project/
